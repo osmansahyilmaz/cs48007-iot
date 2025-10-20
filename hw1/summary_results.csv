@@ -1,0 +1,5 @@
+Activity,Samples,Duration_s,MeanMag_mps2,StdMag_mps2,Steps,FinalRoll_deg,FinalPitch_deg,FinalYaw_deg
+Standing,33322,323.92,0.259,0.543,73,-15.9,-7.6,34.73
+Sitting,31055,301.74,0.106,0.201,51,13.9,3.98,-99.35
+Walking,26905,306.57,1.938,1.312,261,29.7,-9.0,87.02
+Running,32966,320.47,10.723,4.771,328,-33.38,-1.95,338.24
